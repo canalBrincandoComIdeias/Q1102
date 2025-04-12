@@ -1,4 +1,4 @@
-# q1102
+# Q1102
 **Conheça o Módulo Display com 7Segmentos Max7219 #TutorialMaker**
 
 Projeto do Vídeo Q1102 Série **_Tutorial Maker_** powered by **_Petrobras_**
